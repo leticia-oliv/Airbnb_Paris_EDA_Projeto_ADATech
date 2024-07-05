@@ -5,8 +5,6 @@
 
 # **Projeto - Análise Exploratória dos Dados do Airbnb - Paris 🗼**
 
-<sub> 🔗 Visite também >> [Outros PROJETOS do curso - AdaTech](https://github.com/SarahFeanor/Projetos_Curso_AdaTech) </sub>
-
 
 <p align="center">
   <a href="https://github.com/SarahFeanor?tab=repositories">
