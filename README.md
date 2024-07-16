@@ -7,7 +7,7 @@
 
 
 
-## [Análise Exploratória dos Dados do Airbnb - Paris](https://github.com/SarahFeanor/Airbnb_Paris_EDA_Project_ADATech/blob/main/Airbnb_Paris_EDA_ADATech.ipynb) 
+## Análise Exploratória dos Dados do Airbnb - Paris
 
 Bem-vindos(as) ao nosso repositório do **4ª projeto** desenvolvido durante o curso '_Vem Ser Tech Dados_' da **ADA Tech**. Este repositório reflete o progresso e aprendizado conquistados ao longo do módulo de Técnica de Programação I (PY). Tem como foco a realização de um **EDA** (Exploratory Data Analysis) com os conhecimentos obtidos (Pandas e Numpy).
 
@@ -98,12 +98,4 @@ Concluímos que a plataforma Airbnb oferece uma ampla diversidade de tipos de im
 Essa abordagem não apenas atende às necessidades variadas dos clientes da Rota VIP, mas também estabelece uma parceria estratégica com o Airbnb. Ao apresentar uma gama diversificada de opções e preços acessíveis, podemos aumentar a visibilidade da Rota VIP, enquanto o Airbnb se beneficia ao incentivar mais pessoas a utilizarem seus serviços.
 
 Ao posicionar o Airbnb como nosso parceiro exclusivo para oferecer comodidade aos clientes, criamos uma sinergia que não apenas fortalece a visibilidade da Rota VIP, mas também proporciona ao Airbnb uma vantagem competitiva ao ser a escolha preferencial para acomodações personalizadas e serviços turísticos. Essa colaboração estratégica pode resultar em benefícios mútuos, promovendo a oferta de experiências turísticas sob medida e incentivando o uso contínuo dos serviços do Airbnb.
-
-<p align="center">
-  <a href="https://github.com/SarahFeanor?tab=repositories">
-    <img src="https://cdn.discordapp.com/attachments/1063559719291199599/1198977694004682752/cats.jpg?ex=65c0ddfe&is=65ae68fe&hm=7592e55b8862cbda52a303953ee10fdf3f357eb049f96977e08b99ddb85545b7&" alt="capa" width="400" height="300">
-  </a>
-</p><p align="center"> <sup> Foto: Mapa dos bairros de Paris - Fonte: Paris CityVision </sup> </p>
-
-.
 
