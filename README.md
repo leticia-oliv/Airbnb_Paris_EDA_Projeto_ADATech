@@ -6,12 +6,6 @@
 # **Projeto - Análise Exploratória dos Dados do Airbnb - Paris 🗼**
 
 
-<p align="center">
-  <a href="https://github.com/SarahFeanor?tab=repositories">
-    <img src="https://cdn.discordapp.com/attachments/1063559719291199599/1198980222389858464/thumb2-eiffel-tower-paris-champs-elysees-evening-paris-landmarks.jpg?ex=65c0e058&is=65ae6b58&hm=f80a94468a74b3b1a7104c55299392e769903121900d57137b15ad90714dccf4&" alt="capa" width="400" height="300">
-  </a>
-</p> <p align="center"> <sup> Foto: Torre Eiffel - Fonte: BesthHqWallpapers </sup> </p>
-
 
 ## [Análise Exploratória dos Dados do Airbnb - Paris](https://github.com/SarahFeanor/Airbnb_Paris_EDA_Project_ADATech/blob/main/Airbnb_Paris_EDA_ADATech.ipynb) 
 
